@@ -1,0 +1,8 @@
+com.str1k6r
+com.str1k6r.retriever.jetiq.curriculum
+com.str1k6r.retriever.jetiq.curriculum.controller
+com.str1k6r.retriever.jetiq.curriculum.entity
+com.str1k6r.retriever.jetiq.curriculum.entity.enumeration
+com.str1k6r.retriever.jetiq.curriculum.parser
+com.str1k6r.retriever.jetiq.curriculum.selector
+com.str1k6r.retriever.jetiq.curriculum.service
